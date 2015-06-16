@@ -1,2 +1,2 @@
-# SpringMVC
-不断丰富的SpringMVC框架
+# MyBatisDemo-SpringMVC
+####SpringMVC框架下配置MyBatais

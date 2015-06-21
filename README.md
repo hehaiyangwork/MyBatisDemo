@@ -1,2 +1,3 @@
-# SpringMVC
-不断丰富的SpringMVC框架
+#SpringMVC框架下配置MyBatais
+
+
